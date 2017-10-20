@@ -12,6 +12,7 @@
  friendly speadhseet is intended to make the design process easier to execute and understand. 
  
   You can download both spreadsheets here and practice their user with the problems below.
+ [User-friendly spreadsheet](https://joseabraham-mena.github.io/Pumps-and-Piping-/Docs/Pumps and piping calculator) 
 
 ## Examples Problems
 
