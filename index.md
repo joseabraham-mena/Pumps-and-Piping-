@@ -12,7 +12,9 @@
  friendly speadhseet is intended to make the design process easier to execute and understand. 
 
   You can download both spreadsheets here and practice their user with the problems below:
- *[User-friendly spreadsheet](https://joseabraham-mena.github.io/Pumps-and-Piping-/Docs/Pumps and piping calculator.xlsm ) 
+  
+ * [User-friendly spreadsheet](https://joseabraham-mena.github.io/Pumps-and-Piping-/Docs/Pumps and piping calculator.xlsm ) 
+ * [Technical spreadsheet](https://joseabraham-mena.github.io/Pumps-and-Piping-/Docs/Feed Section Scenario 1.xlsm) 
  
 ## Examples Problems
 
