@@ -10,10 +10,10 @@
   The project developed into two different spreadsheets: a technical one and a more user-friendly one. The technical spreadsheet
  is intended as a visual aid to see how diameter and material impacts pressure drop across a pipe segment and total cost. The user-
  friendly speadhseet is intended to make the design process easier to execute and understand. 
- 
-  You can download both spreadsheets here and practice their user with the problems below.
- [User-friendly spreadsheet](https://joseabraham-mena.github.io/Pumps-and-Piping-/Docs/Pumps-and-piping-calculator) 
 
+  You can download both spreadsheets here and practice their user with the problems below:
+ *[User-friendly spreadsheet](https://joseabraham-mena.github.io/Pumps-and-Piping-/Docs/Pumps and piping calculator.xlsm ) 
+ 
 ## Examples Problems
 
 ### Example 1
