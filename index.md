@@ -16,11 +16,32 @@
  * [User-friendly spreadsheet](https://joseabraham-mena.github.io/Pumps-and-Piping-/Docs/Pumps and piping calculator.xlsm ) 
  * [Technical spreadsheet](https://joseabraham-mena.github.io/Pumps-and-Piping-/Docs/Feed Section Scenario 1.xlsm) 
  
-## Examples Problems
 
-### Example 1
+## Solved Problems
 
-### Example 2
+### Solved Problem 1:Finding ideal diameter given desired pressure drop and lenght
+```
+You have a pipe segment 20 meters long that runs through 2 90-degree, standard radius, fittings. 
+The initial pressure at the beginning of the pipe segment is 150 kPa. 
+You want the pipe segment to drop 50 kPa as it runs through the pipe. 
 
-## Acknowledgements and Contributors
+What is the ideal diameter?
 
+```
+
+### Solved Problem 2: Finding pressure drop given diameter and lenghth
+
+
+## Built With
+
+  * EXCEL VBA 2015
+
+## Authors
+
+  * Jose Abraham Mena 
+
+## Acknowledgments
+
+  * Benjamin Feikima
+  * Zac Ardavanis
+  * Professor Steven Pohler
