@@ -20,14 +20,18 @@
 ## Solved Problems
 
 ### Solved Problem 1:Finding ideal diameter given desired pressure drop and lenght
-```
+
 You have a pipe segment 20 meters long that runs through 2 90-degree, standard radius, fittings. 
 The initial pressure at the beginning of the pipe segment is 150 kPa. 
 You want the pipe segment to drop 50 kPa as it runs through the pipe. 
 
 What is the ideal diameter?
 
-```
+Step 1) Set up the spreadsheet
+
+Step 2) Set the desired pressure drop
+
+Step 3) Solve for the ideal diameter
 
 ### Solved Problem 2: Finding pressure drop given diameter and lenghth
 
