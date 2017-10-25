@@ -27,13 +27,33 @@ You want the pipe segment to drop 50 kPa as it runs through the pipe.
 
 What is the ideal diameter?
 
-Step 1) Set up the spreadsheet
+A) Set up the spreadsheet
 
-Step 2) Set the desired pressure drop
+  1. Go to the Set Up tab
+  2. Enter the number of pipe segments
+  3. Click the Update button
+  4. Enter the number of types of segments for each segment. In this case have two fittings
+     of the same type so we enter 1.
 
-Step 3) Solve for the ideal diameter
+B) Set the desired pressure drop
+  5. In the next tab specify the initial and objective pressures; scroll right to
+     find the cells. 
+  6. Go to the initial cells and enter the specific information for the fluid in the pipe,
+     an initial diameter in inches (2 for example), and enter the segment length. 
 
-### Solved Problem 2: Finding pressure drop given diameter and lenghth
+C) Solve for the ideal diameter
+  7. Solve for the fanning friction factor by clicking the button. 
+  8. Solve for the desired diameter.
+  9. Repeat steps 7 and 8 one more time. 
+
+### Solved Problem 2: Finding pressure drop given diameter and length
+
+You have been given a pipe loop with two segments. The first runs for 5 meters and through a 2 inch
+pipe. The second segment funs for 2 meters through a half inch pipe. 
+
+Find the pressure drop at the end of the pipe. 
+
+
 
 
 ## Built With
