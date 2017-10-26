@@ -37,16 +37,17 @@ A) Set up the spreadsheet
 
 B) Set the desired pressure drop
 
-  5. In the next tab specify the initial and objective pressures; scroll right to
-     find the cells. 
-  6. Go to the initial cells and enter the specific information for the fluid in the pipe,
-     an initial diameter in inches (2 for example), and enter the segment length. 
+  5. In the Pressure Drops in Loops tab specify the fluid properties.
+  6. Choose the pipe material from the drop down menu, enter a guess diameter value
+     and the pipe length. 
+  7. Scroll rigth to the Segment Summary Table and enter the initial pressure.
+  8. In the Solve for Specific Pressure Drop Table enter the objective pressure.
 
 C) Solve for the ideal diameter
 
-  7. Solve for the fanning friction factor by clicking the button. 
-  8. Solve for the desired diameter.
-  9. Repeat steps 7 and 8 one more time. 
+  9.  Solve for the fanning friction factor by clicking the button. 
+  10. Solve for the desired diameter.
+  11. Repeat steps 7 and 8 one more time. 
 
 ### Solved Problem 2: Finding pressure drop given diameter and length
 
