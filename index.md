@@ -36,12 +36,14 @@ A) Set up the spreadsheet
      of the same type so we enter 1.
 
 B) Set the desired pressure drop
+
   5. In the next tab specify the initial and objective pressures; scroll right to
      find the cells. 
   6. Go to the initial cells and enter the specific information for the fluid in the pipe,
      an initial diameter in inches (2 for example), and enter the segment length. 
 
 C) Solve for the ideal diameter
+
   7. Solve for the fanning friction factor by clicking the button. 
   8. Solve for the desired diameter.
   9. Repeat steps 7 and 8 one more time. 
