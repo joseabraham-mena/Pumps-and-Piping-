@@ -69,14 +69,14 @@ B) In the Pressure Drops in Loops tab specify the pipe material, diameter and le
 
 C) Find the pressure drop
 
-   1. Click the button to solve for the Fanning Friction Factor
+   1.Click the button to solve for the Fanning Friction Factor
    
 ![Image of step 1](https://joseabraham-mena.github.io/Pumps-and-Piping-/Docs/Example problems/Problem 2/1.PNG)   
 
    Because the two segments are continous, we say that the pressure into the second segment is equal to the
    pressure outside of the first segment
 
-   2. Scroll right to the Segment Summary table and read the value of Pressure 2(kPa)
+   2.Scroll right to the Segment Summary table and read the value of Pressure 2(kPa)
    
  ![Image of step 2](https://joseabraham-mena.github.io/Pumps-and-Piping-/Docs/Example problems/Problem 2/2.PNG)
 
