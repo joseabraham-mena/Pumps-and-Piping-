@@ -35,7 +35,7 @@ A) Set up the spreadsheet
   4. Enter the number of types of segments for each segment. In this case have two fittings
      of the same type so we enter 1.
    
- ![Image of Steps 1-4](Pumps-and-Piping-/Docs/Example problems/Problem 1/2,3,4PNG.PNG)  
+ ![Image of Steps 1-4](https://joseabraham-mena.github.io/Pumps-and-Piping-/Docs/Example problems/Problem 1/2,3,4PNG.PNG)  
 
 B) Set the desired pressure drop
 
@@ -43,12 +43,12 @@ B) Set the desired pressure drop
   6. Choose the pipe material from the drop down menu, enter a guess diameter value
      and the pipe length. 
      
- ![Image of Steps 5-6](Pumps-and-Piping-/Docs/Example problems/Problem 1/5,6.PNG)
+ ![Image of Steps 5-6](https://joseabraham-mena.github.io/Pumps-and-Piping-/Docs/Example problems/Problem 1/5,6.PNG)
   
   7. Scroll rigth to the Segment Summary Table and enter the initial pressure.
   8. In the Solve for Specific Pressure Drop Table enter the objective pressure.
   
-![Image of Steps 7-8](Pumps-and-Piping-/Docs/Example problems/Problem 1/7,8.PNG)
+![Image of Steps 7-8](https://joseabraham-mena.github.io/Pumps-and-Piping-/Docs/Example problems/Problem 1/7,8.PNG)
 
 C) Solve for the ideal diameter
 
@@ -62,8 +62,6 @@ You have been given a pipe loop with two segments. The first runs for 5 meters a
 pipe. The second segment funs for 2 meters through a half inch pipe. 
 
 Find the pressure drop at the end of the pipe. 
-
-
 
 
 ## Built With
