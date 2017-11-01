@@ -34,14 +34,21 @@ A) Set up the spreadsheet
   3. Click the Update button
   4. Enter the number of types of segments for each segment. In this case have two fittings
      of the same type so we enter 1.
+   
+ ![Image of Steps 1-4](Pumps-and-Piping-/Docs/Example problems/Problem 1/2,3,4PNG.PNG)  
 
 B) Set the desired pressure drop
 
   5. In the Pressure Drops in Loops tab specify the fluid properties.
   6. Choose the pipe material from the drop down menu, enter a guess diameter value
      and the pipe length. 
+     
+ ![Image of Steps 5-6](Pumps-and-Piping-/Docs/Example problems/Problem 1/5,6.PNG)
+  
   7. Scroll rigth to the Segment Summary Table and enter the initial pressure.
   8. In the Solve for Specific Pressure Drop Table enter the objective pressure.
+  
+![Image of Steps 7-8](Pumps-and-Piping-/Docs/Example problems/Problem 1/7,8.PNG)
 
 C) Solve for the ideal diameter
 
